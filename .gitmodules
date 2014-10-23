@@ -4,3 +4,9 @@
 [submodule "qa-plugin/social-share"]
 	path = qa-plugin/social-share
 	url = git@github.com:ivanlanin/q2a-social-share.git
+[submodule "qa-plugin/email-notif"]
+	path = qa-plugin/email-notif
+	url = git@github.com:ivanlanin/q2a-email-notifications-revised.git
+[submodule "qa-plugin/webmaster"]
+	path = qa-plugin/webmaster
+	url = git@github.com:ivanlanin/Q2A-Webmaster.git
