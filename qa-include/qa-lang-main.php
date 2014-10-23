@@ -1,11 +1,11 @@
 <?php
-	
+
 /*
 	Question2Answer by Gideon Greenspan and contributors
 
 	http://www.question2answer.org/
 
-	
+
 	File: qa-include/qa-lang-main.php
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases commonly used throughout Q2A
@@ -15,7 +15,7 @@
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -26,6 +26,7 @@
 
 	return array(
 		'1_answer' => '1 answer',
+		'1_unanswered' => '1 unanswered',
 		'1_comment' => '1 comment',
 		'1_day' => '1 day',
 		'1_disliked' => '1 dislike',
@@ -204,6 +205,7 @@
 		'voted_up_popup' => 'You have voted this up - click to remove vote',
 		'written' => '', // blank in English - placeholder for other languages
 		'x_ago' => '^ ago',
+		'x_unanswered' => '^ unanswered',
 		'x_answers' => '^ answers',
 		'x_comments' => '^ comments',
 		'x_days' => '^ days',
@@ -223,7 +225,7 @@
 		'x_weeks' => '^ weeks',
 		'x_years' => '^ years',
 	);
-	
+
 
 /*
 	Omit PHP closing tag to help avoid accidental output

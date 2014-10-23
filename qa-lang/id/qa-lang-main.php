@@ -26,6 +26,7 @@
 
     return array(
         '1_answer' => '1 jawaban',
+		'1_unanswered' => '1 belum terjawab',
         '1_comment' => '1 komentar',
         '1_day' => '1 hari',
         '1_disliked' => '1 tolak',
@@ -205,6 +206,7 @@
         'written' => '', // blank in English - placeholder for other languages
         'x_ago' => '^ yang lalu',
         'x_answers' => '^ jawaban',
+		'x_unanswered' => '^ belum terjawab',
         'x_comments' => '^ komentar',
         'x_days' => '^ hari',
         'x_disliked' => '^ tolak',
