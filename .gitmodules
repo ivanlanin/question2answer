@@ -1,3 +1,6 @@
 [submodule "qa-plugin/markdown-editor"]
 	path = qa-plugin/markdown-editor
 	url = git@github.com:ivanlanin/q2a-markdown-editor.git
+[submodule "qa-plugin/social-share"]
+	path = qa-plugin/social-share
+	url = git@github.com:ivanlanin/q2a-social-share.git
