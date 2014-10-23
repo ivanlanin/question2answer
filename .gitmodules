@@ -1,0 +1,3 @@
+[submodule "qa-plugin/markdown-editor"]
+	path = qa-plugin/markdown-editor
+	url = git@github.com:ivanlanin/q2a-markdown-editor.git

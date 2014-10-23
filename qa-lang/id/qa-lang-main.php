@@ -142,6 +142,7 @@
         'page_not_found' => 'Laman tak ditemukan',
         'page_prev' => 'sebelumnya',
         'popular_tags' => 'Tag terpopuler',
+		'powered_by' => 'Diberdayakan oleh ^',
         'questions_tagged_x' => 'Pertanyaan terbaru bertag ^',
         'recategorized' => 'dikategorikan ulang',
         'recent_activity_in_x' => 'Aktivitas terbaru di ^',

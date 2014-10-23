@@ -142,6 +142,7 @@
 		'page_not_found' => 'Page not found',
 		'page_prev' => 'prev',
 		'popular_tags' => 'Most popular tags',
+		'powered_by' => 'Powered by ^',
 		'questions_tagged_x' => 'Recent questions tagged ^',
 		'recategorized' => 'recategorized',
 		'recent_activity_in_x' => 'Recent activity in ^',
